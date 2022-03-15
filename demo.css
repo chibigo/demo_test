@@ -1,0 +1,9 @@
+.heading_name {
+  display: flex;
+  justify-content: center;
+}
+.block {
+  height: 100px;
+  width: 100px;
+  background-color: #333;
+}
